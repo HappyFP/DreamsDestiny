@@ -1,4 +1,8 @@
 [
 null,
+<<<<<<< HEAD
 {"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":819,"scrollY":457.5}
+=======
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":841.7142857142857,"scrollY":505.71428571428567}
+>>>>>>> main
 ]
