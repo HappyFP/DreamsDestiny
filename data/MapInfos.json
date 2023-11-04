@@ -1,4 +1,8 @@
 [
 null,
+<<<<<<< HEAD
 {"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":811,"scrollY":497.5}
+=======
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":819,"scrollY":457.5}
+>>>>>>> Minh-Test-Branch
 ]
